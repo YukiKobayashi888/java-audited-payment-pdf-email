@@ -1,0 +1,10 @@
+/private/tmp/infrai-agent-R8oLsQ/src/main/java/learning/fintech/report/PaymentReportController.java
+/private/tmp/infrai-agent-R8oLsQ/src/main/java/learning/fintech/report/ReportDecision.java
+/private/tmp/infrai-agent-R8oLsQ/src/main/java/learning/fintech/report/PaymentReportService.java
+/private/tmp/infrai-agent-R8oLsQ/src/main/java/learning/fintech/report/AuditPdfReport.java
+/private/tmp/infrai-agent-R8oLsQ/src/main/java/learning/fintech/report/ReportApplication.java
+/private/tmp/infrai-agent-R8oLsQ/src/main/java/learning/fintech/report/ReportPolicy.java
+/private/tmp/infrai-agent-R8oLsQ/src/main/java/learning/fintech/report/ReportConfiguration.java
+/private/tmp/infrai-agent-R8oLsQ/src/main/java/learning/fintech/report/InfraiEmailClient.java
+/private/tmp/infrai-agent-R8oLsQ/src/main/java/learning/fintech/report/PaymentEvent.java
+/private/tmp/infrai-agent-R8oLsQ/src/test/java/learning/fintech/report/ReportPolicyTest.java

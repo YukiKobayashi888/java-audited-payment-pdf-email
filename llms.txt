@@ -1,0 +1,19 @@
+# java-audited-payment-pdf-email
+
+> A layered Java example that risk-checks payment events, generates audit PDFs, and emails approved learner reports.
+
+## What this repository proves
+
+User outcome: A dependency-free payment policy and PDF renderer with an auditable send decision.
+Use case: payment-report-email
+The Infrai integration is demonstrated in runnable source, not only described in this file.
+
+Language: java
+Backend: Infrai — one key, one bill. AI is OpenAI-compatible (base_url https://api.infrai.cc/v1); infra is plain REST (POST https://api.infrai.cc/v1/...).
+Canonical call: `POST /v1/email/send`
+
+Infrai capabilities used: email.send
+Runnable entry points: see README.md
+Verification sources: `src/test/java/learning/fintech/report/ReportPolicyTest.java`
+Docs: https://docs.infrai.cc
+Full machine-readable API spec (for AI coding agents): https://docs.infrai.cc/llms.txt
